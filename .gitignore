@@ -1,0 +1,13 @@
+# Ignore node_modules and oter local dev files
+*.lessc.css
+config.codekit
+node_modules
+.DS_Store
+*.lock
+
+# Ignore assets that are build from source
+# assets/js
+# assets/css
+
+#ignore maps
+assets/source/_maps
